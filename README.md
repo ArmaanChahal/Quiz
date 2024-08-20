@@ -39,10 +39,19 @@ To run this project locally, follow these steps:
 ## How to Use
 
 1. **Login or Sign Up:** Start by logging in or creating a new account.
+![image](https://github.com/user-attachments/assets/4f6f2467-ff24-4658-9444-3cd18191a66f)
+![image](https://github.com/user-attachments/assets/0e8cef8c-89fa-434a-b991-c181fb9d8776)
+
+
 2. **Start the Quiz:** Once logged in, begin the quiz and keep an eye on the timer.
+![image](https://github.com/user-attachments/assets/a8ae6bd1-11fa-4bbb-b613-5fcd4c64565d)
+
+
 3. **Answer Questions:** Navigate through the quiz using the available buttons.
 4. **Submit the Quiz:** After answering all questions, submit the quiz to see your score.
 5. **View Leaderboard:** Check the leaderboard to see your ranking.
+![image](https://github.com/user-attachments/assets/bffa7ad6-2b71-4317-8bca-3b21079cdf7e)
+
 
 ## Contributing
 
