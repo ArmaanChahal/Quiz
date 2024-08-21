@@ -57,6 +57,5 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you'd like to enhance the project or fix any issues, feel free to fork the repository and submit a pull request.
 
----
-
-Let me know if you need any adjustments or additional details!
+## License
+This project is licensed under the MIT License - see the <a href="https://github.com/ArmaanChahal/Quiz/blob/main/LICENSE">LICENSE</a> file for details.
